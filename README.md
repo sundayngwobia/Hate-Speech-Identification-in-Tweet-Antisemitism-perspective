@@ -10,5 +10,5 @@ Label    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Description
 0 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> Indicates tweet tweet is neutral, non offensive and present no hate speech.  
 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> Indicates tweet is offensive but do not present any hate or a segregative/racist speech  
 2	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> Indicates tweet is offensive, and present hate, racist and segregative words but does not target jews.  
-3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> Indicates tweet is antisemiti, that is, it contains offensive,hate, racist or segregative words/expressions specifically
+3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;---> Indicates tweet is antisemiti, that is, it contains offensive,hate, racist or segregative words/expressions specifically  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  against Jew and Jew community.  
