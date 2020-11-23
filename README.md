@@ -7,7 +7,7 @@ Dataset Labeling
 ----------------
 
 Label    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Description  
-0     --->  Indicates tweet tweet is neutral, non offensive and present no hate speech.
-1     --->  Indicates tweet is offensive but do not present any hate or a segregative/racist speech
-2			---> Indicates tweet is hateful, in other words, it is offensive, and present hate, racist and segregative words or expressions but does not target jews.
-3   ---> Indicates tweet is antisemiti, that is, it contains offensive,hate, racist or segregative words/expressions specifically against Jew and Jew community.
+0   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--->  Indicates tweet tweet is neutral, non offensive and present no hate speech.  
+1     --->  Indicates tweet is offensive but do not present any hate or a segregative/racist speech  
+2			---> Indicates tweet is hateful, in other words, it is offensive, and present hate, racist and segregative words or expressions but does not target jews.  
+3   ---> Indicates tweet is antisemiti, that is, it contains offensive,hate, racist or segregative words/expressions specifically against Jew and Jew community.  
