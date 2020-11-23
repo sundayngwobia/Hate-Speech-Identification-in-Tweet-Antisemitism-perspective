@@ -6,7 +6,7 @@ See pdf for more informtion about the project.
 Dataset Labeling
 ----------------
 
-Label    &nbsp;&nbsp;&nbsp;&nbsp;   Description  
+Label    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Description  
 0     --->  Indicates tweet tweet is neutral, non offensive and present no hate speech.
 1     --->  Indicates tweet is offensive but do not present any hate or a segregative/racist speech
 2			---> Indicates tweet is hateful, in other words, it is offensive, and present hate, racist and segregative words or expressions but does not target jews.
